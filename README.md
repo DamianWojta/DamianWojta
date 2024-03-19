@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DamianWojta
+- 👀 I’m interested in data analyst
+- 🌱 I’m currently learning excel and power BI
+- 📫 How to reach me: you can text me here
+- ⚡ Fun fact: It is currently estimated that the entire internet takes up 10 yottabytes. 1 yottabyte is equal to 10 000 000 000 000 000 GB
